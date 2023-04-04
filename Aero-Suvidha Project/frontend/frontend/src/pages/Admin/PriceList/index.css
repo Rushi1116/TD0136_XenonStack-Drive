@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+
+.tTitle{
+    color: purple;
+    text-align: left;
+    background-image: url('./../../../images/img10.jpg');
+    margin: 0%;
+    margin-left: -8.1%;
+    margin-right: -8%;
+    max-width: 100%;
+    
+  
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+    background-position: center;
+    position: fixed;
+    padding: 15px;
+
+    font-family: 'Mulish', sans-serif;
+  
+}
+
+.tTi{
+    text-align: left;
+}
+
+th{
+    font-family: 'Yeseva One', cursive;
+    color:maroon; 
+}

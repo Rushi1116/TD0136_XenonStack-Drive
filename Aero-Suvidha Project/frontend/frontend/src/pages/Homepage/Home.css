@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar-brand{
+  font-size: 1.9rem;
+  color: #565387;
+  font-family: 'Mulish', sans-serif;
+font-family: 'Oswald', sans-serif;
+background: transparent;
+}
+
+.navbar-a{
+  font-size: 1.3rem;
+  text-transform: capitalize;
+  background: transparent;
+}
+
+.menu_active{
+  font-weight: bold;
+  border-bottom: 1px solid #798753;
+}
+
+.navbar a:hover{
+  color:blueviolet;
+  background: transparent;
+}
+
+h1{
+  text-align: auto;
+  margin-left: 0rem;
+  font-family: 'Mulish', sans-serif;
+}
+
+.name{
+  font-style: initial;
+  color: brown;
+ 
+}
+
+.main-container{
+  background-color:black;
+  background-image: url("./images/img5.jpg");
+  margin: 0%;
+  margin-left: -8.1%;
+  margin-right: -8%;
+  max-width: 100%;
+
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  position: fixed;
+  padding: 15px;
+
+
+}
+
+web{
+  max-width: 100%;
+  flex: 1;
+  height: auto;
+  width: auto;
+}
+
+.header{
+  display:inline-block;
+  text-align: center;
+  margin-left: -5%;
+}
+
+#sec{
+	width:90%;
+	height:700px;
+	margin-bottom:-180px;
+	margin-left:5%;
+  font-weight: 100;
+  color: black;
+  font-size: larger;
+  font-family: 'Mulish', sans-serif;
+  
+}
+
+
+
+.about{
+  background-image: url("./images/img2.jpg");
+ margin-left: -10%;
+height: 100vh;
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  position: fixed;
+  padding: 15px;
+}
+
+.contact{
+  background-image: url("./images/img2.jpg");
+ margin-left: -8.1%;
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  position: fixed;
+  padding: 15px;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,800&family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,800&family=Dancing+Script:wght@600&family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+.aRoute{
+    font-family: 'Yeseva One', cursive;
+    align-items: center;
+   color: black;
+   padding: 15px;
+   background-image: url('../../../images/addroute.jpg');
+   min-width: 100%;
+   min-height: 100%;
+   background-position: center;
+   background-size: cover;
+   position: fixed;
+   margin-left: -8.09%;
+
+}
+
+.Ar{
+    font-family: 'Bodoni Moda', serif;
+font-family: 'Dancing Script', cursive;
+
+}

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Bodoni+Moda:opsz,wght@6..96,400;6..96,800&family=Bungee+Spice&family=Dancing+Script:wght@600&family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Bodoni+Moda:opsz,wght@6..96,400;6..96,800&family=Bungee+Spice&family=Dancing+Script:wght@600&family=Libre+Baskerville:ital@1&family=Mulish&family=Oswald:wght@700&family=Source+Code+Pro:wght@500&family=Yeseva+One&display=swap');
+
+  .ticket{
+    padding: 15px;
+   
+    color:crimson;
+    background-image: url('../../../images/img9.jpg');
+    margin: 0%;
+  margin-left: -8.1%;
+  margin-right: -8%;
+  max-width: 100%;
+ 
+  background-size: cover;
+  min-width: 100%;
+  min-height: 100%;
+  background-position: center;
+  position: fixed;
+  padding: 25px;
+  display:inline-block;
+ 
+  font-family: 'Source Code Pro', monospace;
+  }
+
+  .container-fluid{
+    margin-left: -10%;
+  }
+  

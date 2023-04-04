@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,800&family=Bungee+Spice&family=Dancing+Script:wght@600&family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+
+h1.title {
+  margin-left: -25%;
+  }
+
+  .cB{
+    font-family: 'Mulish', sans-serif;
+    
+    height: 100vh;
+    width: max-content;
+    background-size: cover;
+   
+  }
+  

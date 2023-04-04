@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,800&family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+
+.Sc{
+    font-family: 'Yeseva One', cursive;
+   
+   color: black;
+  
+   background-image: url('../../../images/img9.jpg');
+   background-position: center;
+   min-height: 100%;
+   min-width: 100%;
+   background-size: cover;
+   position: fixed;
+   margin-left: -8.09%;
+   padding: 10px;
+   display: inline;
+   background-origin: padding-box;
+   scroll-behavior: auto;
+   background-repeat: repeat;
+
+}

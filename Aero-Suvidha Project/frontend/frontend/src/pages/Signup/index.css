@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,800&family=Mulish&family=Oswald:wght@700&family=Yeseva+One&display=swap');
+
+.header{
+  margin-left: 10mm;
+  color: indigo;
+  font-family: 'Yeseva One', cursive;
+ 
+}
+.hSP{
+ margin-right: 35%;
+  color: indigo;
+  font-family: 'Yeseva One', cursive;
+ 
+}
+
+.signup{
+  background-image: url("../../images/signup4.jpg");
+  min-width: 100%;
+  min-height: 100%;
+ background-position: center;
+  background-size: cover;
+  position: fixed;
+  height: 100%;
+  width: fit-content;
+  margin-left: -32.9mm;
+  margin-right: -15mm;
+  padding: 15px;
+  font-size: larger;
+  font-family: 'Mulish', sans-serif;
+  color: black;
+}
+
